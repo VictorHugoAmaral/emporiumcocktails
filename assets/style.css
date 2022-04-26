@@ -1,0 +1,76 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?mc0zss');
+  src:  url('fonts/icomoon.eot?mc0zss#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?mc0zss') format('truetype'),
+    url('fonts/icomoon.woff?mc0zss') format('woff'),
+    url('fonts/icomoon.svg?mc0zss#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-up:before {
+  content: "\e90f";
+}
+.icon-circle_facebook_icon:before {
+  content: "\e900";
+}
+.icon-email_icon:before {
+  content: "\e901";
+}
+.icon-local_phone_icon:before {
+  content: "\e902";
+}
+.icon-champagne_toast_valenticons_valentine_alcohol_icon:before {
+  content: "\e903";
+  color: #4d4d4d;
+}
+.icon-whatsapp_icon:before {
+  content: "\e904";
+}
+.icon-instagram_icon:before {
+  content: "\e905";
+}
+.icon-cocktail_alcohol_beverage_drink_juice_icon:before {
+  content: "\e906";
+}
+.icon-wine_alcohol_beer_beverage_bottle_icon:before {
+  content: "\e907";
+}
+.icon-burger_list_menu_numbers_string_icon:before {
+  content: "\e908";
+  color: #ba63c6;
+}
+.icon-adress_gps_location_pin_position_icon:before {
+  content: "\e909";
+}
+.icon-notcorrect_sign_wrong_x_icon:before {
+  content: "\e90a";
+}
+.icon-alcohol_bar_beer_drink_drunk_icon:before {
+  content: "\e90b";
+}
+.icon-facebook_facebook-icon_logo_network_icon:before {
+  content: "\e90c";
+}
+.icon-play_video_youtube_youtube-logo_icon:before {
+  content: "\e90d";
+}
+.icon-alcohol_bottle_glass_wine_icon:before {
+  content: "\e90e";
+}
